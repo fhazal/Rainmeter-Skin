@@ -16,3 +16,5 @@ rainmeter skins modification collections.
 🎨Add On Skin :  AWESOME for Rainmeter by niivu on DeviantArt
 
 <img width="1920" alt="OneDarkProFormerv1-2" src="https://user-images.githubusercontent.com/15804741/193195665-026eedb3-a448-4d67-8b69-e71e3eca1a46.png">
+
+How To install windows theme : https://www.deviantart.com/niivu/art/Installing-Windows-Themes-UPDATED-708835586
