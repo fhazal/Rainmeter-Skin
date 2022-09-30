@@ -1,2 +1,2 @@
-# RainMeter
+# Rainmeter
 rainmeter skins modification collections.
